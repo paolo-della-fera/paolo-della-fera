@@ -4,7 +4,7 @@
 
 ---
 
-Sono un giovane sviluppatore web full stack, con una solida base in HTML, CSS, JavaScript, React, Node.js ed Express.
+Sono un giovane sviluppatore web full stack, con una solida base in HTML, CSS, JavaScript, TypeScript, React, Node.js ed Express.
 Lavoro con metodo e concretezza, supportando la progettazione con l'uso consapevole dell'intelligenza artificiale.
 Sempre aperto a nuove collaborazioni e pronto a mettermi in gioco.
 
