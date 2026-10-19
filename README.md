@@ -21,6 +21,9 @@ Sempre aperto a nuove collaborazioni e pronto a mettermi in gioco.
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
@@ -28,6 +31,7 @@ Sempre aperto a nuove collaborazioni e pronto a mettermi in gioco.
 
 | Progetto | Descrizione | Tech |
 |----------|-------------|------|
+| [🔗 Dashboard F1](https://github.com/paolo-della-fera/dashboard-f1) | Dashboard di Formula 1 con calendario, classifiche, risultati e confronto testa a testa tra piloti dal 1950. Sviluppata con Claude Code, con test automatici, tema scuro e accessibilità. **[▶ Prova il sito](https://dashboard-f1-chi.vercel.app)** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
 | [🔗 Vinoteca](https://github.com/paolo-della-fera/vinoteca-app) | SPA per la consultazione di un catalogo di vini italiani, con ricerca, filtri, preferiti e comparatore | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
 | [🔗 BoolComics](https://github.com/paolo-della-fera/BoolComics) | App web full stack per la gestione e navigazione di fumetti | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 
